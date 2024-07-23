@@ -15,3 +15,13 @@ Think about how you would do this on pen and paper and then how you might transl
 - loop through the given numbers ([link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration))
 - on each iteration add the number to the sum
 - return the sum after finishing the loop
+
+
+
+
+
+>Uma funçao que tenha 2 saidas
+>Um loop em que e adicionado +1 ao valor de cada entrada 
+>Fazer a soma dessa valor ao anterior cada vez que o loop rodar
+>Criar uma variavel que armazene o valor final da funçao
+>Exibir o resultado do loop ao fim da funçao
